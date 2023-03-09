@@ -11,7 +11,7 @@
     <groupId>com.laurentiuspilca</groupId>
     <artifactId>ssia-ch12-ex1-render</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ssia-ch12-ex1</name>
+    <name>ssia-ch12-ex1-render</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
