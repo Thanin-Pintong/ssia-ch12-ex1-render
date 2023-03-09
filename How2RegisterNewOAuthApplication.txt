@@ -1,0 +1,14 @@
+Go to https://github.com/settings/applications/new
+(Setting | Developer settings | OAuth Apps | Register a new application)
+
+Application name: ssia-ch12-ex1-render
+Homepage URL: https://ssia-ch12-ex1-render.onrender.com/
+Authorization callback URL: https://ssia-ch12-ex1-render.onrender.com/
+
+Click the button "Register application"
+
+Client ID
+533f1a78c34b90e28652
+
+Click the button "Generate a new client secret"
+5417a36d7c379ea8e794b494afebdee30d62e1db
