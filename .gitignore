@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/How2CreateWebServiceInRender.txt
+/How2CreateRepoInGitHub.txt
+/Readme.txt
+/nbactions.xml
