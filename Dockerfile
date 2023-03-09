@@ -27,4 +27,4 @@ COPY . .
 RUN mvn clean package -DskipTests
 
 EXPOSE 80
-ENTRYPOINT ["java","-jar","target/basic-spring-boot-render-1.0.0-SNAPSHOT.jar"]
+ENTRYPOINT ["java","-jar","target/ssia-ch12-ex1-render-0.0.1-SNAPSHOT.jar"]
