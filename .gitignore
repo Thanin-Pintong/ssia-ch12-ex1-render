@@ -31,6 +31,5 @@ build/
 .vscode/
 /How2CreateWebServiceInRender.txt
 /How2CreateRepoInGitHub.txt
-/How2RegisterNewOAuthApplication.txt
 /Readme.txt
 /nbactions.xml
