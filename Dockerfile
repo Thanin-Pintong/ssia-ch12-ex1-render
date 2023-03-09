@@ -1,4 +1,4 @@
-FROM thaninp2021/ubuntu2004-openjdk18-maven36
+FROM docker.io/thaninp2021/ubuntu2004-openjdk18-maven36
 
 COPY . .
 RUN mvn clean package -DskipTests
